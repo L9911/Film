@@ -28,8 +28,9 @@ Setiap film memiliki atribut berikut:
 - Tombol Tambah, Update, dan Hapus berada di bawah form
 
 
-## Nama         : Gabriel L. Renleeuw
-## Kelas/NIM    : 2B/24083000055
-## Mata Kuliah  : Pemograman Lanjut
+
+Nama         : Gabriel L. Renleeuw
+Kelas/NIM    : 2B/24083000055
+Mata Kuliah  : Pemograman Lanjut
 
 
