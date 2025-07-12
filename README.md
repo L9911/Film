@@ -1,8 +1,8 @@
-Aplikasi Manajemen Data Film (UAS - JavaFX)
+🎬 Aplikasi Manajemen Data Film (UAS - JavaFX)
 Proyek ini adalah aplikasi CRUD sederhana berbasis JavaFX untuk mengelola data film. Aplikasi ini dibangun sebagai tugas akhir (UAS) pemrograman berorientasi objek.
 
 
-Fitur Aplikasi
+🧩 Fitur Aplikasi
 Tambah data film
 
 Edit data film
@@ -13,7 +13,7 @@ Tampilkan semua film dalam tabel
 
 Desain antarmuka menggunakan JavaFX dengan tampilan modern
 
-Struktur Data Film
+📂 Struktur Data Film
 Setiap entri film memiliki:
 
 Properti	Tipe Data	Keterangan
@@ -24,12 +24,12 @@ Tahun Rilis	int	Tahun launching film
 Genre	String	Action, Drama, dll
 Rating	String	G, PG, PG-13, R, NC-17
 
-Tampilan Antarmuka
+🖥️ Tampilan Antarmuka
 Tabel Film	Form Input
 Menampilkan semua data film	Tambah, Edit, dan Hapus data dengan mudah
 Kolom: ID, Judul, Deskripsi, dll.	Form di bawah tabel, dalam TitledPane
 
-Cara Menjalankan
+🚀 Cara Menjalankan
 1. Clone Repository
 bash
 Salin
@@ -42,7 +42,7 @@ Gunakan IntelliJ IDEA / NetBeans / VS Code dengan Java Support
 Pastikan Java 11+ dan JavaFX sudah di-setup
 
 3. Jalankan App.java
-Struktur Folder
+📁 Struktur Folder
 bash
 Salin
 Edit
@@ -53,15 +53,15 @@ uas-film-javafx/
 │       ├── Film.java            # Model data
 │       └── FilmController.java  # Logika bisnis
 └── README.md
-Dibuat Oleh
-Nama: Gabriel L. Renleeuw
+🎓 Dibuat Oleh
+Nama: [Nama Anda]
 
-Kelas/NIM: 2B/24083000055
+Kelas: [Kelas atau Jurusan]
 
 Tugas: UAS Pemrograman Berorientasi Objek
 
-Nilai Plus
-Menggunakan pendekatan Object-Oriented sepenuhnya (Model-Controller)  
-UI bersih dan modern  
-Validasi input  
-Modular dan bisa dikembangkan lebih lanjut  
+⭐ Nilai Plus
+✅ Menggunakan pendekatan Object-Oriented sepenuhnya (Model-Controller)
+✅ UI bersih dan modern
+✅ Validasi input
+✅ Modular dan bisa dikembangkan lebih lanjut
