@@ -1,6 +1,6 @@
 # Aplikasi Manajemen Data Film (UAS - JavaFX)
 
-Proyek ini adalah aplikasi CRUD sederhana berbasis JavaFX untuk mengelola data film. Aplikasi ini dibuat untuk memenuhi tugas akhir (UAS) mata kuliah Pemrograman Berorientasi Objek.
+Proyek ini adalah aplikasi CRUD sederhana berbasis JavaFX untuk mengelola data film. Aplikasi ini dibuat untuk memenuhi tugas akhir (UAS) mata kuliah Pemrograman Lanjut
 
 ## Fitur Aplikasi
 
@@ -26,5 +26,10 @@ Setiap film memiliki atribut berikut:
 - Data film ditampilkan dalam tabel
 - Form input ditampilkan di bawah tabel dalam kotak (TitledPane)
 - Tombol Tambah, Update, dan Hapus berada di bawah form
+
+
+## Nama         : Gabriel L. Renleeuw
+## Kelas/NIM    : 2B/24083000055
+## Mata Kuliah  : Pemograman Lanjut
 
 
