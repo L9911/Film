@@ -21,7 +21,7 @@ Setiap film memiliki atribut berikut:
 - Genre (String) - Contoh: Action, Drama, dll
 - Rating (String) - Contoh: G, PG, PG-13, R, NC-17
 
-## 🖥Tampilan Antarmuka
+## Tampilan Antarmuka
 
 - Data film ditampilkan dalam tabel
 - Form input ditampilkan di bawah tabel dalam kotak (TitledPane)
