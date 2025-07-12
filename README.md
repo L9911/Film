@@ -29,8 +29,8 @@ Setiap film memiliki atribut berikut:
 
 
 
-Nama         : Gabriel L. Renleeuw
-Kelas/NIM    : 2B/24083000055
-Mata Kuliah  : Pemograman Lanjut
+Nama         : Gabriel L. Renleeuw  
+Kelas/NIM    : 2B/24083000055  
+Mata Kuliah  : Pemograman Lanjut  
 
 
